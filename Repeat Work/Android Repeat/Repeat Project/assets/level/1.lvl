@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level width="1000" height="780">    
+    <entity x="100" y="100" type="platform"/>
+    <entity x="250" y="400" type="platform"/>
+    <entity x="400" y="220" type="platform"/>
+    <entity x="550" y="500" type="platform"/>
+    <entity x="720" y="240" type="platform"/>
+	<entity x ="850" y ="400" type="goal"/>
+	<entity x="60" y="140" type="player"/>
+	</level>
